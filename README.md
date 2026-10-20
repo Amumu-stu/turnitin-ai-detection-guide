@@ -48,7 +48,7 @@ AI 生成的文本经常会出现句式相似的情况，句子长度也比较�
 
 ### 01、笔灵 AI
 
-传送门：[笔灵英文降ai ](https://u.ibiling.cn/vrq6Qj)[https://ibiling\.cn/paper\-pass/english](https://u.ibiling.cn/vrq6Qj)
+传送门：[笔灵英文降ai ](https://ibiling.cn/paper-pass/english?from=githubywjiangai1009jw)[https://ibiling\.cn/paper\-pass/english](https://ibiling.cn/paper-pass/english?from=githubywjiangai1009jw)
 
 笔灵是我实测下来适配英文长篇学术文稿的**英文降 ai 率**工具，优化后文本自然度表现稳定。前后试过很多改写工具对比，笔灵的体验差异很明显。
 
